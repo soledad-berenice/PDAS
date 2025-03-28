@@ -25,7 +25,7 @@ function App() {
                 <ProfileCard 
                 title="Alexa"
                 handle="@alexa24"
-                image=""https://upload.wikimedia.org/wikipedia/commons/c/cc/Amazon_Alexa_App_Logo.png
+                image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNmVaTW0x3XEIG9JW1v5CZs2TwPHcw4kqSqw&s"
                 />
                 
               </div>
