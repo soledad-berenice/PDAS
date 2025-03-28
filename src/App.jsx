@@ -14,11 +14,17 @@ function App() {
           <section className="section">
             <div className="columns">
               <div className="column is-4">
-                <ProfileCard />
+                <ProfileCard 
+                title="Alexa"
+                handle="@alexa24"
+                image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNmVaTW0x3XEIG9JW1v5CZs2TwPHcw4kqSqw&s"/>
                 
               </div>
               <div className="column is-4">
-                <ProfileCard />
+                <ProfileCard 
+                title="Alexa"
+                handle="@alexa24"
+                image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNmVaTW0x3XEIG9JW1v5CZs2TwPHcw4kqSqw&s"/>
                 
               </div>
               <div className="column is-4">
